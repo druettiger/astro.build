@@ -1,0 +1,19 @@
+{
+	"features": {
+		"ghcr.io/devcontainers-extra/features/deno-asdf:2": {
+			"version": "2.0.16",
+			"resolved": "ghcr.io/devcontainers-extra/features/deno-asdf@sha256:55eba9e5d1a15158787fb34fda9a2308045dc6a0e38f41bd4e0ed4c967fa5aaa",
+			"integrity": "sha256:55eba9e5d1a15158787fb34fda9a2308045dc6a0e38f41bd4e0ed4c967fa5aaa"
+		},
+		"ghcr.io/devcontainers-extra/features/netlify-cli:1": {
+			"version": "1.0.4",
+			"resolved": "ghcr.io/devcontainers-extra/features/netlify-cli@sha256:5daa356aee31b798290a179699ecb8480b0b1c67978cb22f31387e51595fb3b4",
+			"integrity": "sha256:5daa356aee31b798290a179699ecb8480b0b1c67978cb22f31387e51595fb3b4"
+		},
+		"ghcr.io/devcontainers-extra/features/pnpm:2": {
+			"version": "2.0.5",
+			"resolved": "ghcr.io/devcontainers-extra/features/pnpm@sha256:694c2b6182435c9e9c06f6071728b087c1181b38c18cecf0defe2ab8c11cddd6",
+			"integrity": "sha256:694c2b6182435c9e9c06f6071728b087c1181b38c18cecf0defe2ab8c11cddd6"
+		}
+	}
+}
